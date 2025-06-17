@@ -1,2 +1,3 @@
 "Hello world"
 This is my first Ai project
+this is the project of social media content generator
